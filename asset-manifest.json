@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nixie-tube-clock/static/css/main.f6e9fabe.chunk.css",
+    "main.js": "/nixie-tube-clock/static/js/main.8269787d.chunk.js",
+    "main.js.map": "/nixie-tube-clock/static/js/main.8269787d.chunk.js.map",
+    "runtime-main.js": "/nixie-tube-clock/static/js/runtime-main.bcf5ae3f.js",
+    "runtime-main.js.map": "/nixie-tube-clock/static/js/runtime-main.bcf5ae3f.js.map",
+    "static/js/2.e43b6408.chunk.js": "/nixie-tube-clock/static/js/2.e43b6408.chunk.js",
+    "static/js/2.e43b6408.chunk.js.map": "/nixie-tube-clock/static/js/2.e43b6408.chunk.js.map",
+    "static/js/3.75e09ff8.chunk.js": "/nixie-tube-clock/static/js/3.75e09ff8.chunk.js",
+    "static/js/3.75e09ff8.chunk.js.map": "/nixie-tube-clock/static/js/3.75e09ff8.chunk.js.map",
+    "index.html": "/nixie-tube-clock/index.html",
+    "static/css/main.f6e9fabe.chunk.css.map": "/nixie-tube-clock/static/css/main.f6e9fabe.chunk.css.map",
+    "static/js/2.e43b6408.chunk.js.LICENSE.txt": "/nixie-tube-clock/static/js/2.e43b6408.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcf5ae3f.js",
+    "static/js/2.e43b6408.chunk.js",
+    "static/css/main.f6e9fabe.chunk.css",
+    "static/js/main.8269787d.chunk.js"
+  ]
+}
