@@ -1,0 +1,9 @@
+.filament {
+	color: rgba(140, 140, 0, 1);
+	filter: url('#resting-filament');
+}
+
+.filament--active {
+	color: rgba(255, 200, 0, 1);
+	filter: url('#active-filament');
+}
