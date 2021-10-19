@@ -2,6 +2,6 @@
 
 An animated clock made in React.
 
-# Getting Started
+## Getting Started
 
 Run `yarn start` to run locally.
